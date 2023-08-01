@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ternence6baldwi622
+- 👀 I’m interested in full-stack. I’m currently learning Django and Python.
+- 🌱 Committed to crafting robust, user-friendly web applications.
